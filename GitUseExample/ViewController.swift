@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("This is a Git tutorial")
         
+        print("You finished!")
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
