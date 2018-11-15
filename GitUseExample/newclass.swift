@@ -7,3 +7,9 @@
 //
 
 import Foundation
+class newclass: NSObject{
+    func sayHello() {
+        print("Hello from MapForItinerary")
+    }
+
+}
